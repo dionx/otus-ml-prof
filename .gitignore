@@ -1,0 +1,7 @@
+/.venv
+/.idea
+/.vscode
+/.env
+/lectures
+__pycache__
+/ClassWorks

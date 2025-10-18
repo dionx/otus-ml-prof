@@ -23,6 +23,8 @@ kaggle = "^1.7.4.5"
 kagglehub = "^0.3.12"
 ipywidgets = "^8.1.7"
 scikit-learn = "^1.7.0"
+graphviz = "^0.21"
+pydotplus = "^2.0.2"
 
 
 [build-system]

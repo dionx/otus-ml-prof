@@ -28,6 +28,7 @@ pydotplus = "^2.0.2"
 catboost = "^1.2.8"
 lightgbm = "^4.6.0"
 xgboost = "^3.1.0"
+networkx = "^3.5"
 
 
 [build-system]

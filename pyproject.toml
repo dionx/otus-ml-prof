@@ -7,7 +7,7 @@ readme = "README.md"
 package-mode = false
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = ">=3.12,<3.15"
 ipykernel = "^6.29.5"
 pylint = "^3.3.6"
 pytest = "^8.3.5"
@@ -29,7 +29,15 @@ catboost = "^1.2.8"
 lightgbm = "^4.6.0"
 xgboost = "^3.1.0"
 networkx = "^3.5"
+torchsummary = "^1.5.1"
+opencv-python = "^4.12.0.88"
+torch = {version = "^2.9.1", source = "pytorch"}
+torchvision = {version = "^0.24.1", source = "pytorch"}
 
+[[tool.poetry.source]]
+name = "pytorch"
+url = "https://download.pytorch.org/whl/cu126"
+priority = "explicit"
 
 [build-system]
 requires = ["poetry-core"]

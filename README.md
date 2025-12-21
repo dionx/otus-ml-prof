@@ -35,3 +35,16 @@ export PYTHONPATH=$(pwd)
 * https://www.conventionalcommits.org/ru/v1.0.0/
 * https://www.desmos.com/calculator?lang=ru
 
+
+### Установка PyTorch
+
+https://pytorch.org/get-started/locally/
+
+```bash
+# Версия CUDA: 13.0
+nvidia-smi
+# Нужна версия `python = ">=3.12,<3.15"` в pyproject.toml
+poetry source add --priority=explicit pytorch-cu130 https://download.pytorch.org/whl/cu130
+poetry add torch torchvision torchaudio
+
+```

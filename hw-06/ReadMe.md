@@ -21,6 +21,7 @@
 
 * https://www.kaggle.com/code/solmazmohammadi/cloud-segmentation
 * https://www.kaggle.com/code/volkanastasia/understanding-clouds-creating-the-mask
+* https://www.kaggle.com/competitions/understanding_cloud_organization/writeups/andrey-kiryasov-2nd-place-solution
 * https://medium.com/%40keur.plkar/kaggle-competition-understanding-clouds-from-satellite-images-creating-segmentation-label-masks-b7cb6666e750
 * https://www.kaggle.com/code/cdeotte/unsupervised-masks-cv-0-60
 * https://neerc.ifmo.ru/wiki/index.php?title=%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_%D0%BD%D0%B0%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2_%D0%BD%D0%B0_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8
